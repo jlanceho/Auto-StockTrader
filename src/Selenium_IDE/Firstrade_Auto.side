@@ -61,7 +61,7 @@
       "command": "store",
       "target": "",
       "targets": [],
-      "value": "LIMIT_PRICE"
+      "value": "LIMIT"
     }, {
       "id": "26c7e8ca-3189-43e2-8746-9112dfd983dc",
       "comment": "",
